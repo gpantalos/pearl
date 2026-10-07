@@ -1,3 +1,5 @@
+Archived on 7 October 2026. This repository is retained as a historical reference and is no longer maintained.
+
 ![alt](./logo/pearl_long.png)
 # Pearl - A Production-ready Reinforcement Learning AI Agent Library
 ### Proudly brought by Applied Reinforcement Learning @ Meta
